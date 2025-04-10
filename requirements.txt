@@ -1,0 +1,6 @@
+pandas
+requests
+sqlite3
+seaborn
+matplotlib
+prefect
